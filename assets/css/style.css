@@ -1,0 +1,52 @@
+.text-white{
+   color: #fff !important;
+}
+
+
+
+.funding{
+    background: url('../img/theme/light/img-v-error.jpg');
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.donate-1{
+   background:url('../img/1.jpeg') ;
+   height: 200px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+   border-radius: 10px;
+}
+.donate-2{
+    background:url('../img/2.jpeg') ;
+    object-fit: cover;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+ }
+ .donate-3{
+    background:url('../img/1.jpeg') ;
+    object-fit: cover;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+ }
+ .donate-4{
+    background:url('../img/4.jpeg') ;
+    object-fit: cover;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 10px;
+ }
+.cardoo{
+    margin-top: -5rem !important;
+    border-radius: 10px;
+}
